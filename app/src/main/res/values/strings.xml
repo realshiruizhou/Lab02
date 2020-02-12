@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Lab 02</string>
+    <string name="prompt">Enter name</string>
+    <string name="submit_button">Submit</string>
+    <string name="cycle">Click planet button to get planet names</string>
+    <string name="plan">Planet</string>
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+</resources>
